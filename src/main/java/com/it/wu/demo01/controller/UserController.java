@@ -48,4 +48,5 @@ public class UserController {
         user1Mapper.delete(id);
     }
 
+
 }
